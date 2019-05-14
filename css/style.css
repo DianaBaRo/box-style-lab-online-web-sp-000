@@ -31,13 +31,13 @@ h4 {
 
 .indifferent {
   border: 1px solid #ecef2b;
-  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
+  box-shadow:  -1px 1px #ecef2b, -2px 2px #ecef2b, -3px 3px #ecef2b, -4px 4px #ecef2b, -5px 5px #ecef2b;
   background-color: #dddd22;
 }
 
 .dubious {
   border: 1px solid #ef382a;
-  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
+  box-shadow:  -1px 1px #ef382a, -2px 2px #ef382a, -3px 3px #ef382a, -4px 4px #ef382a, -5px 5px #ef382a;
   background-color: #dd4444;
 }
 
